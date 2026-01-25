@@ -1,0 +1,11 @@
+torch==2.1.2
+torchvision==0.16.2
+diffusers==0.26.3
+transformers==4.38.2
+accelerate==0.27.2
+opencv-python==4.9.0.80
+pillow==10.2.0
+pandas==2.2.1
+scikit-learn==1.4.1.post1
+numpy==1.26.4
+tqdm==4.66.2
